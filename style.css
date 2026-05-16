@@ -197,7 +197,7 @@ font-family:'Playfair Display', serif;
   font-size:22px;
   margin-bottom:15px;
 
-  transform: translateY(-80px);
+  transform: translateY(-110px);
 }
 
 /* nombres */
@@ -206,7 +206,7 @@ font-family:'Playfair Display', serif;
   flex-direction:column;
   align-items:center;
 font-family:'Great Vibes', cursive;
- gap:19px;
+ gap:22px;
   color:#f5d985;
   margin-top: -5px;
   margin-bottom:28px;
@@ -255,7 +255,7 @@ BOTÓN ORO ELEGANTE FINO
 ========================= */
 
 #abrirBtn{
-   transform: translateY(45px);
+   transform: translateY(60px);
 
   position:relative;
   overflow:hidden;
