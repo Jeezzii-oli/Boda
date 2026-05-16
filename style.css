@@ -194,10 +194,10 @@ PORTADA
 .subtitulo{
 font-family:'Playfair Display', serif;
   letter-spacing:4px;
-  font-size:24px;
+  font-size:26px;
   margin-bottom:15px;
 
-  transform: translateY(-150px);
+  transform: translateY(-170px);
 }
 
 /* nombres */
