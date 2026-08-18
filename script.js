@@ -113,7 +113,7 @@ secciones.forEach(seccion => observer.observe(seccion));
 CONTADOR
 ============================== */
 
-const fechaEvento = new Date("July 18, 2026 17:00:00").getTime();
+const fechaEvento = new Date("November 14, 2026 16:30:00").getTime();
 
 const contador = setInterval(function(){
 
